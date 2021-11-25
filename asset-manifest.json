@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/codechemist/static/css/main.61d0a6bd.chunk.css",
-    "main.js": "/codechemist/static/js/main.95cdeb5e.chunk.js",
-    "main.js.map": "/codechemist/static/js/main.95cdeb5e.chunk.js.map",
+    "main.js": "/codechemist/static/js/main.f68ff66c.chunk.js",
+    "main.js.map": "/codechemist/static/js/main.f68ff66c.chunk.js.map",
     "runtime-main.js": "/codechemist/static/js/runtime-main.c3cd497f.js",
     "runtime-main.js.map": "/codechemist/static/js/runtime-main.c3cd497f.js.map",
     "static/js/2.5880bef8.chunk.js": "/codechemist/static/js/2.5880bef8.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.c3cd497f.js",
     "static/js/2.5880bef8.chunk.js",
     "static/css/main.61d0a6bd.chunk.css",
-    "static/js/main.95cdeb5e.chunk.js"
+    "static/js/main.f68ff66c.chunk.js"
   ]
 }
