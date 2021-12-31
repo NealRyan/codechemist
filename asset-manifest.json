@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/codechemist.me/static/css/main.61d0a6bd.chunk.css",
-    "main.js": "/codechemist.me/static/js/main.a1e9d116.chunk.js",
-    "main.js.map": "/codechemist.me/static/js/main.a1e9d116.chunk.js.map",
-    "runtime-main.js": "/codechemist.me/static/js/runtime-main.92e61307.js",
-    "runtime-main.js.map": "/codechemist.me/static/js/runtime-main.92e61307.js.map",
-    "static/js/2.8db6ee04.chunk.js": "/codechemist.me/static/js/2.8db6ee04.chunk.js",
-    "static/js/2.8db6ee04.chunk.js.map": "/codechemist.me/static/js/2.8db6ee04.chunk.js.map",
-    "index.html": "/codechemist.me/index.html",
-    "static/css/main.61d0a6bd.chunk.css.map": "/codechemist.me/static/css/main.61d0a6bd.chunk.css.map",
-    "static/js/2.8db6ee04.chunk.js.LICENSE.txt": "/codechemist.me/static/js/2.8db6ee04.chunk.js.LICENSE.txt",
-    "static/media/Neal Ryan Resume - 2021.svg": "/codechemist.me/static/media/Neal Ryan Resume - 2021.5443a86e.svg",
-    "static/media/atom.06cb60ab.png": "/codechemist.me/static/media/atom.06cb60ab.png",
-    "static/media/flask.svg": "/codechemist.me/static/media/flask.665fc374.svg",
-    "static/media/input_data.74fd8462.svg": "/codechemist.me/static/media/input_data.74fd8462.svg",
-    "static/media/lecture.svg": "/codechemist.me/static/media/lecture.2d27a016.svg",
-    "static/media/mail.030ab501.svg": "/codechemist.me/static/media/mail.030ab501.svg",
-    "static/media/mail_sent.daa7faf3.svg": "/codechemist.me/static/media/mail_sent.daa7faf3.svg",
-    "static/media/rocket.5cab6b56.svg": "/codechemist.me/static/media/rocket.5cab6b56.svg",
-    "static/media/scientist.svg": "/codechemist.me/static/media/scientist.91ffb044.svg",
-    "static/media/video.d28831bc.mp4": "/codechemist.me/static/media/video.d28831bc.mp4"
+    "main.css": "/codechemist/static/css/main.61d0a6bd.chunk.css",
+    "main.js": "/codechemist/static/js/main.f68ff66c.chunk.js",
+    "main.js.map": "/codechemist/static/js/main.f68ff66c.chunk.js.map",
+    "runtime-main.js": "/codechemist/static/js/runtime-main.c3cd497f.js",
+    "runtime-main.js.map": "/codechemist/static/js/runtime-main.c3cd497f.js.map",
+    "static/js/2.5880bef8.chunk.js": "/codechemist/static/js/2.5880bef8.chunk.js",
+    "static/js/2.5880bef8.chunk.js.map": "/codechemist/static/js/2.5880bef8.chunk.js.map",
+    "index.html": "/codechemist/index.html",
+    "static/css/main.61d0a6bd.chunk.css.map": "/codechemist/static/css/main.61d0a6bd.chunk.css.map",
+    "static/js/2.5880bef8.chunk.js.LICENSE.txt": "/codechemist/static/js/2.5880bef8.chunk.js.LICENSE.txt",
+    "static/media/Neal Ryan Resume - 2021.svg": "/codechemist/static/media/Neal Ryan Resume - 2021.5443a86e.svg",
+    "static/media/atom.06cb60ab.png": "/codechemist/static/media/atom.06cb60ab.png",
+    "static/media/flask.svg": "/codechemist/static/media/flask.665fc374.svg",
+    "static/media/input_data.74fd8462.svg": "/codechemist/static/media/input_data.74fd8462.svg",
+    "static/media/lecture.svg": "/codechemist/static/media/lecture.2d27a016.svg",
+    "static/media/mail.030ab501.svg": "/codechemist/static/media/mail.030ab501.svg",
+    "static/media/mail_sent.daa7faf3.svg": "/codechemist/static/media/mail_sent.daa7faf3.svg",
+    "static/media/rocket.5cab6b56.svg": "/codechemist/static/media/rocket.5cab6b56.svg",
+    "static/media/scientist.svg": "/codechemist/static/media/scientist.91ffb044.svg",
+    "static/media/video.d28831bc.mp4": "/codechemist/static/media/video.d28831bc.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.92e61307.js",
-    "static/js/2.8db6ee04.chunk.js",
+    "static/js/runtime-main.c3cd497f.js",
+    "static/js/2.5880bef8.chunk.js",
     "static/css/main.61d0a6bd.chunk.css",
-    "static/js/main.a1e9d116.chunk.js"
+    "static/js/main.f68ff66c.chunk.js"
   ]
 }
