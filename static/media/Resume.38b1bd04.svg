@@ -491,8 +491,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.79405744"
-     inkscape:cx="267.61288"
-     inkscape:cy="527.66963"
+     inkscape:cx="268.87224"
+     inkscape:cy="527.66964"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -509,7 +509,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Page 2" />
+     inkscape:label="Page 2"
+     style="fill:#ffffff" />
   <g
      id="g1721"
      inkscape:groupmode="layer"
