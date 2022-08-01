@@ -491,7 +491,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.79405744"
-     inkscape:cx="212.20127"
+     inkscape:cx="213.46063"
      inkscape:cy="528.92899"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -510,7 +510,15 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Page 2"
-     style="fill:#ffffff" />
+     style="fill:#ffffff">
+    <rect
+       style="fill:#ffffff"
+       id="rect620"
+       width="813.54315"
+       height="1051.5612"
+       x="2.5187094"
+       y="3.7780643" />
+  </g>
   <g
      id="g1721"
      inkscape:groupmode="layer"
